@@ -46,5 +46,5 @@ contains write functions.
 
 Author
 Joy udoh
-
+Samuel Awoyinka
 End
